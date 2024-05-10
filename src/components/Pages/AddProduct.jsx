@@ -260,6 +260,53 @@ const AddProduct = () => {
 
                           </div>
                         </div>
+                        <div>
+                          <h6>Product Image</h6>
+                          <hr />
+                          <div className="row gap-3">
+                            <div className="col-12 row my-4">
+                              <p className="col-2">Product Image1 :- </p>
+                              <input
+                                className="col-10 border border-2 border-dark p-1"
+                                type="file"
+                                placeholder="Enter Quantity"
+                              />
+                            </div>
+                            <div className="col-12 row my-4">
+                              <p className="col-2">Product Image2 :- </p>
+                              <input
+                                className="col-10 border border-2 border-dark p-1"
+                                type="file"
+                                placeholder="Enter Quantity"
+                              />
+                            </div>
+                            <div className="col-12 row my-4">
+                              <p className="col-2">Product Image3 :- </p>
+                              <input
+                                className="col-10 border border-2 border-dark p-1"
+                                type="file"
+                                placeholder="Enter Quantity"
+                              />
+                            </div>
+                            <div className="col-12 row my-4">
+                              <p className="col-2">Product Image4 :- </p>
+                              <input
+                                className="col-10 border border-2 border-dark p-1"
+                                type="file"
+                                placeholder="Enter Quantity"
+                              />
+                            </div>
+                            <div className="col-12 row my-4">
+                              <p className="col-2">Product Image5 :- </p>
+                              <input
+                                className="col-10 border border-2 border-dark p-1"
+                                type="file"
+                                placeholder="Enter Quantity"
+                              />
+                            </div>
+                           
+                          </div>
+                        </div>
                       </form>
                     </div>
                   </div>
