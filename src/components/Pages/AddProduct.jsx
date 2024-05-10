@@ -307,7 +307,10 @@ const AddProduct = () => {
                            
                           </div>
                         </div>
+                        
+                      
                       </form>
+                      <div className="w-100 d-flex justify-content-end"><button className=" border-0 p-2 text-white bg-secondary rounded">Add Product</button></div>
                     </div>
                   </div>
                 </div>
